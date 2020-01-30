@@ -1,0 +1,2 @@
+# 2019nCov_infected_number_estimate
+函数拟合2019-nCov感染人数曲线，以便做好下步预测
